@@ -27,15 +27,6 @@ namespace FormsSweet
 
 
 
-            button1.Visible = false;
-            label3.Visible=false;
-            label4.Visible = false;
-            label5.Visible = false;
-            label6.Visible = false;
-            textBox2.Visible = false;
-            textBox3.Visible = false;
-            textBox4.Visible = false;
-            textBox5.Visible = false;
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
