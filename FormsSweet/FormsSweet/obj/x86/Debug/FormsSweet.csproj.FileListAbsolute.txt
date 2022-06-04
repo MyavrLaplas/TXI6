@@ -1,0 +1,14 @@
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\bin\Debug\FormsSweet.exe
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\bin\Debug\FormsSweet.pdb
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\obj\x86\Debug\FormsSweet.Form1.resources
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\obj\x86\Debug\FormsSweet.Properties.Resources.resources
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\obj\x86\Debug\FormsSweet.csproj.GenerateResource.Cache
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\obj\x86\Debug\FormsSweet.exe
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\obj\x86\Debug\FormsSweet.pdb
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\obj\x86\Debug\FormsSweet.Form2.resources
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\bin\Debug\ClassLibrary.dll
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\bin\Debug\LogicaForm.dll
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\bin\Debug\ClassLibrary.pdb
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\bin\Debug\LogicaForm.pdb
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\obj\x86\Debug\FormsSweet.csprojResolveAssemblyReference.cache
+c:\users\170565\documents\visual studio 2010\Projects\FormsSweet\FormsSweet\obj\x86\Debug\FormsSweet.Form3.resources
